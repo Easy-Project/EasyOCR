@@ -2,27 +2,8 @@
 
 ---------------
 
-Java OCR 识别组件（基于Tesseract OCR 引擎）。能自动完成图片清理、识别 CAPTCHA 验证码图片内容的一体化工作。
 
-- [中文](doc/readme-zh.md)
-
-
-Java Image cleanup, OCR recognition component (based Tesseract OCR engine, automatically cleanup image and identification CAPTCHA verification code picture content). 
-
-- [English](doc/readme-en.md)
-
-
-## Maven
-```XML
-<dependency>
-	<groupId>cn.easyproject</groupId>
-	<artifactId>easyocr</artifactId>
-	<version>3.0.3-RELEASE</version>
-</dependency>
-```
-
-
-## 
+## Now pause, wait a moment, more will come. If you need, please contact me.
 
 
 ### [官方主页](http://www.easyproject.cn/easyocr/zh-cn/index.jsp '官方主页')
